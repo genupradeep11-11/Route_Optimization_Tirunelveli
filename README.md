@@ -1,2 +1,0 @@
-# Route_Optimization_Tirunelveli
-Route Optimization for 25 Customers in Tirunelveli District using Python and OR-Tools
