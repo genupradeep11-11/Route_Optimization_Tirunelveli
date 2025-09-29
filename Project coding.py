@@ -69,3 +69,4 @@ optimized_locations = [(df.loc[df['Customer Name'] == name, 'Latitude'].values[0
 
 url = generate_google_maps_route(optimized_locations)
 webbrowser.open(url)
+
